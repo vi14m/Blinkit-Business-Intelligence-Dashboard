@@ -10,7 +10,7 @@ An interactive dashboard for analyzing Blinkit operations, customer feedback, de
 - Actionable insights for business decisions
 
 ## Demo
-See the live dashboard and code on [GitHub](https://github.com/vi14m/Blinkit-Business-Intelligence-Dashboard).
+See the live dashboard and code on [GitHub](https://blinkit-business-intelligence-dashboard.streamlit.app/).
 
 ## Getting Started
 
